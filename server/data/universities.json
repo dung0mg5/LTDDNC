@@ -1,0 +1,162 @@
+[
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "ACCA",
+    "region": "United Kingdom"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "HACK A BOSS",
+    "region": "Spain"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Amity University",
+    "region": "Indian"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "AFPA",
+    "region": "France"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "RMIT University Vietnam",
+    "region": "Vietnam"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Boston University",
+    "region": "United States"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Harvard Business School",
+    "region": "United States"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "CAE",
+    "region": "Canada"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Cornel University",
+    "region": "United States"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "CESI",
+    "region": "France"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Duke University",
+    "region": "United States"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "DataCamp",
+    "region": " United States"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "D&AD",
+    "region": "United Kingdom"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "FIAP",
+    "region": "Brazil"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Z Fellows",
+    "region": "United States"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Fordham University",
+    "region": "United States"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Great Learning",
+    "region": "Indian"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "GRAN",
+    "region": "United States"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "HEC Paris",
+    "region": "France"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "KEU Leuven",
+    "region": "Belgium"
+  }
+]

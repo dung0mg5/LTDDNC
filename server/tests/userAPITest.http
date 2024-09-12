@@ -1,0 +1,25 @@
+### check server
+
+GET http://localhost:8000/server-status
+
+
+### Sign in
+POST http://localhost:8000/api/v1/users/sign-in
+Content-Type: application/json
+
+{
+    "email": "toannguyen.devjob@gmail.com",
+    "password": "123456789"
+}
+
+### Sign up
+POST http://localhost:8000/api/v1/users/sign-up
+Content-Type: application/json
+
+{
+    "firstName": "Nguyen",
+    "lastName": "Toan",
+    "email": "toannguyen.devjob@gmail.com",
+    "password": "123456789"
+}
+

@@ -1,0 +1,122 @@
+[
+  {
+    "firstName": "Nguyen",
+    "lastName": "Toan",
+    "email": "toannguyen.devjob@gmail.com",
+    "password": "123456789",
+    "cover": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1710915280/avatars/cover.png",
+      "public_id": "avatars/cover"
+    },
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1709004468/avatars/default-avatar.png",
+      "public_id": "avatars/default-avatar"
+    },
+    "location": "Ho Chi Minh",
+    "headline": "Associate at Amazon Web Services",
+    "experiences": [
+      {
+        "company": "6648a217d2313ac7fceb9060",
+        "jobTitle": "Associate",
+        "typeEmployment": "Part-time",
+        "location": "Hanoi",
+        "locationType": "Remote",
+        "industry": "Information Technology & Services",
+        "start": "2022-01-01",
+        "end": "2023-12-31",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.",
+        "skills": ["HTML", "CSS", "JavaScript", "React"]
+      },
+      {
+        "company": "6648a217d2313ac7fceb9061",
+        "jobTitle": "Full-stack Developer",
+        "typeEmployment": "Full-time",
+        "location": "Ho Chi Minh",
+        "locationType": "Hybrid",
+        "industry": "Information Technology & Services",
+        "start": "2020-01-01",
+        "end": "2021-12-31",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo."
+      }
+    ],
+    "educations": [
+      {
+        "school": "6648a228e31727f3373ad9fc",
+        "fieldOfStudy": "Computer Science",
+        "degree": "Bachelor",
+        "grade": "3.5",
+        "activities": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.",
+        "startYear": 2015,
+        "endYear": 2019,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.",
+        "skills": ["HTML", "CSS", "JavaScript", "React"]
+      },
+      {
+        "school": "6648a228e31727f3373ad9fd",
+        "startYear": 2020,
+        "endYear": 2022
+      }
+    ],
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "followers": [],
+    "following": [],
+    "savePosts": [],
+    "saveJobs": [],
+    "isVerified": true,
+    "active": true,
+    "role": "user"
+  },
+  {
+    "firstName": "Lau",
+    "lastName": "Van",
+    "email": "vanlau.devjob@gmail.com",
+    "password": "123456789",
+    "cover": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1710915280/avatars/cover.png",
+      "public_id": "avatars/cover"
+    },
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1709004468/avatars/default-avatar.png",
+      "public_id": "avatars/default-avatar"
+    },
+    "location": "Hanoi",
+    "headline": "Associate at Amazon Web Services",
+    "experiences": [
+      {
+        "company": "6648a217d2313ac7fceb9069",
+        "jobTitle": "Associate",
+        "typeEmployment": "Part-time",
+        "location": "Hanoi",
+        "locationType": "Remote",
+        "industry": "Information Technology & Services",
+        "start": "2020-01-01",
+        "end": "2020-12-31",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.",
+        "skills": ["HTML", "CSS", "JavaScript", "React"]
+      }
+    ],
+    "educations": [
+      {
+        "school": "6648a228e31727f3373ada01",
+        "fieldOfStudy": "Computer Science",
+        "degree": "Bachelor",
+        "grade": "3.5",
+        "activities": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.",
+        "startYear": 2015,
+        "endYear": 2019,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.",
+        "skills": ["HTML", "CSS", "JavaScript", "React"]
+      }
+    ],
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "followers": [],
+    "following": [],
+    "savePosts": [],
+    "saveJobs": [],
+    "isVerified": true,
+    "active": true,
+    "role": "user"
+  }
+]

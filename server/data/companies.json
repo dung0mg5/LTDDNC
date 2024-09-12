@@ -1,0 +1,163 @@
+[
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708860407/companies/caa_fka5tz.jpg",
+      "public_id": "caa_fka5tz"
+    },
+    "name": "CAA Club Group",
+    "typeOfBusiness": "Insurance"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708860407/companies/adp_u7zuvs.jpg",
+      "public_id": "adp_u7zuvs"
+    },
+    "name": "ADP",
+    "typeOfBusiness": "Human Resources Services"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "aramco",
+    "typeOfBusiness": "Oil and Gas"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Ambev",
+    "typeOfBusiness": "Food and Beverage Manufacturing"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Adobe",
+    "typeOfBusiness": "Software Development"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Atos",
+    "typeOfBusiness": "IT Services and IT Consulting"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708860407/companies/aws_lnxfct.jpg",
+      "public_id": "aws_lnxfct"
+    },
+    "name": "Amazon Web Services",
+    "typeOfBusiness": "IT Services and IT Consulting"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "AECOM",
+    "typeOfBusiness": "Civil Engineering"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Apple",
+    "typeOfBusiness": "Computers and Electronics Manufacturing"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "ABB",
+    "typeOfBusiness": "Automation Machinery Manufacturing"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "bp",
+    "typeOfBusiness": "Oil and Gas"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "BD",
+    "typeOfBusiness": "Medical Equipment Manufacturing"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "BAT",
+    "typeOfBusiness": "Tobacco Manufacturing"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Bayer",
+    "typeOfBusiness": "Chemical Manufacturing"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Boeing",
+    "typeOfBusiness": "Aviation & Aerospace"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Bradesco",
+    "typeOfBusiness": "Banking"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "BT Group",
+    "typeOfBusiness": "Telecommunications"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708862021/companies/default-avatar-company.png",
+      "public_id": "companies/default-avatar-company"
+    },
+    "name": "Barclays",
+    "typeOfBusiness": "Financial Services"
+  },
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708860407/companies/danone_nuih2q.jpg",
+      "public_id": "danone_nuih2q"
+    },
+    "name": "Danone",
+    "typeOfBusiness": "Food and Beverage Manufacturing"
+  },
+
+  {
+    "avatar": {
+      "url": "https://res.cloudinary.com/myshop-it/image/upload/v1708860407/companies/cisco_km6rb2.jpg",
+      "public_id": "cisco_km6rb2"
+    },
+    "name": "Cisco",
+    "typeOfBusiness": "Software Development"
+  }
+]
